@@ -1,0 +1,3 @@
+from hotel.settings import *
+
+
